@@ -1,4 +1,4 @@
-package api.utill.vector;
+package api.util.vector;
 
 public class GradeVO {
 	// 변수 선언시 동일한 타입이 있으면
